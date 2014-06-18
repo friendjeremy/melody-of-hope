@@ -22,7 +22,7 @@ function fbhandleMDown()
 }
 function fbhandleMUp()
 {
- changeImage();
+ fbchangeImage();
  return true;
 }
 
@@ -50,7 +50,7 @@ function ighandleMDown()
 }
 function ighandleMUp()
 {
- changeImage();
+ igchangeImage();
  return true;
 }
 
@@ -78,6 +78,6 @@ function twhandleMDown()
 }
 function twhandleMUp()
 {
- changeImage();
+ twchangeImage();
  return true;
 }
